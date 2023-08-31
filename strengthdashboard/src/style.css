@@ -1,0 +1,269 @@
+@font-face {
+    font-family: Metropolis;
+    src: url(./stylesheet.css);
+}
+
+body {
+    font-family: "Metropolis", sans-serif;
+}
+
+.btn-primary {
+    background-color: #52AF48 !important;
+    border-color: #52AF48 !important;
+}
+.btn-light-blue{
+    background-color: #02A6F2;
+    border-color: #02A6F2;
+}
+
+.rounded-15 {
+    border-radius: 15px;
+}
+
+.rounded-10 {
+    border-radius: 10px;
+}
+
+.bg-ofwhite {
+    background-color: #F5F5F5;
+}
+
+.btn-green {
+    background-color: #52AF48;
+}
+
+.table-height{
+    height: 300px;
+}
+.table-header p{
+    color: #757575;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.table-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.chart-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.chart-header p{
+    color: #757575;
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.chart img{
+    width: 100%;
+}
+
+
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    color: #0F4D8A;
+    font-weight: 600;
+}
+span.valueDisp{
+    color: #0F4D8A;
+    font-weight: 600;
+}
+.login-all-bg {
+    background-color: #0F4D8A;
+}
+
+.pass-icon {
+    color: #CED4DA;
+}
+
+.login-u-p {
+    color: #403F3F !important;
+}
+
+
+.nav-tabs .nav-item button {
+    background-color: #D9EFFF;
+    color: #0F4D8A;
+}
+
+.nav-tabs .nav-item button.btn.active {
+    background-color: #0F4D8A !important;
+    color: white;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    --bs-table-accent-bg: #F8F9FB;
+}
+
+.custom-table thead tr th {
+    border-bottom: 1px solid #e8e9e9 !important;
+    font-size: 14px;
+    color: #757575;
+    font-weight: 400;
+    padding: 15px;
+}
+
+.custom-table thead tr th p {
+    border-left: 1px solid #C6C8C9;
+    line-height: 16px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    text-wrap: nowrap;
+}
+
+.height-28vh {
+    max-height: 28vh;
+}
+
+.height-45vh {
+    max-height: 45vh;
+}
+
+.custom-table tbody tr td {
+    border-bottom: 0px !important;
+    color: #3C4549;
+    font-size: 14px;
+    font-weight: 400px;
+    padding: 10px;
+}
+.text-light-grey{
+    color: #3C4549;
+    font-weight: 600;
+}
+.float-label{
+    position: relative;
+}
+.float-label label{
+    position: absolute;
+    color: #757575;
+    background-color: white;
+    padding: 0px 4px;
+    font-size: 11px;
+    margin: 0px 0px 0px 12px;
+    top: -8px;
+}
+
+.emp-p{
+    color: #3C4549;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.emp-number
+{
+    color: #02A6F2;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 180%;
+}
+.tr-p p{
+    font-size: 10px;
+}
+.tr-p td{
+    font-size: 10px;
+}
+.tr-td td{
+    font-size: 10px !important; 
+}
+.table-heading{
+    font-size: 12px;
+}
+.director{
+   border-width: 0px 0px 0px 1px;
+   border-style: solid;
+   border-color: #B0B0B080;
+}
+.director p{
+    font-size: 10px;
+}
+.director h5{
+    font-size: 20px;
+}
+.shadow{
+    box-shadow: 0px 1px 3px 0px #0000001A;
+    
+}
+.shadow-1{
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10);
+}
+.resource-number{
+    color: #02A6F2;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144px;
+}
+.resource-p{
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: 600;
+}
+.resource-number-1{
+    color: #52AF48;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144px;
+}
+.resource-number-2{
+    color: #0066CC;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144px;
+}
+
+.table-resource-number {
+    color: #02A6F2;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+.table-resource-number-1 {
+    color: #EB7F10;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+.table-number-1 {
+    color: #EB7F10;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.heading-style{
+    color: #757575;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 900px){
+    .table-resource-number, .table-resource-number-1, 
+    .resource-number, .resource-number-1, .resource-number-2, .table-number-1{
+        font-size: 35px !important;
+        line-height: 60px;
+    }
+    
+}
+
