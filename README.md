@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Niaziz007
+- 👋 Hi, I’m Haseeb Khan
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Ai/ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haseebdeadpool00@gmail.com
 
 <!---
