@@ -1,10 +1,16 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C+I%27m+Niaziz&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI+Engineer&descAlignY=55&descSize=18" width="100%"/></p>
 
-<h1 align="center">Hi 👋, I'm Niaziz</h1>
-<h3 align="center">AI Engineer | Building AI-native products at EDGE Talent</h3>
+<h1 align="center">Hi, I'm Haseeb Khan</h1>
+<h3 align="center">I'm an AI Engineer passionate about building AI-native products. Currently working on RCM automation projects and agentic tools for health care organizations.</h3>
 
 <p align="center">
-  <a href="https://github.com/niaziz007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=niaziz007&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/niaziz007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -28,12 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niaziz007&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niaziz007&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niaziz007&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niaziz007&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -46,10 +48,10 @@
 
 ---
 
-## 📈 Activity Graph
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niaziz007&theme=redical&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/niaziz007" alt="niaziz007's GitHub chart"/>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/></p>
