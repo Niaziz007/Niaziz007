@@ -1,6 +1,5 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C+I%27m+Haseeb&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI+Engineer&descAlignY=55&descSize=18" width="100%"/></p>
 
-<h1 align="center">Hi, I'm Haseeb Khan</h1>
 <h3 align="center">I'm an AI Engineer passionate about building AI-native products. Currently working on RCM automation projects and agentic tools for health care organizations.</h3>
 
 <p align="center">
